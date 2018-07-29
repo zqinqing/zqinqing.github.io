@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.itlz.cc/"/>
-  <updated>2018-07-29T09:35:54.978Z</updated>
+  <updated>2018-07-29T10:29:28.716Z</updated>
   <id>http://www.itlz.cc/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://www.itlz.cc/2017/04/01/hello-world/"/>
     <id>http://www.itlz.cc/2017/04/01/hello-world/</id>
     <published>2017-04-01T12:22:00.000Z</published>
-    <updated>2018-07-29T09:35:54.978Z</updated>
+    <updated>2018-07-29T10:29:28.716Z</updated>
     
-    <content type="html"><![CDATA[<!-- <img src="http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture" alt="广州" width="400"> --><p>曾在一个轻日记软件看到过这样一句话：<br><strong>“生活是需要记录的， 每个人都是生活的艺术家。”</strong></p><p>我们都知道, 每个人的记忆都十分有限。<br>人的脑细胞每七年就会全部更换一次， 很多东西一段时间后可能就会慢慢忘记。<br>或许在日后会被再次回忆， 但总需要媒介。 </p><p>比如用写日志的形式储存， 这是一个媒介, 就相当于把记忆永久地封存了下来。<br>多年之后再看， 当时的相关感受与回忆就会再次涌现。<br>写日志/拍照， 其实就是帮未来的自己，记住现在的自己。</p><a id="more"></a><blockquote><p>《朗读者》中有这么一句话：”生命不是你活了多少日子，而是你记住了多少日子，要使你过的每一天都值得记忆”。</p></blockquote><p>我觉得, 能用语言记录下来的每一件事<br>或好或坏<br>都是我我们对生命的一种记录<br>让自己可以在未来有记忆可追寻。</p><p>隔着一段岁月，可能就会发现了生活中很多被自己曾忽视了的，却很细碎美好的东西。</p><p>所以，<code>hello world</code> 这世界， 我来了。</p><p>感谢<strong>litten</strong>分享的<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">yilia</a>主题, 很不错的主题。</p><!-- 别的页面的应用的引用##**一个例子**<iframe id="demoIframe" src="/assets/demo/mediator/demo.html" width="500" height="314" scrolling="no"></iframe>或者点这里弹出看[demo](/assets/demo/mediator/demo.html) 图片引用![广州](http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture)视频引用<video controls="" autoplay="" name="media"><source src="/assets/video/yilia-mobile.mp4" type="video/mp4"></video> -->]]></content>
+    <content type="html"><![CDATA[<p><img src="https://wx4.sinaimg.cn/mw690/005Lzozrgy1ftqwqmjiqaj30xc0m97c7.jpg" alt="广州" width="400"></p><p>曾在一个轻日记软件看到过这样一句话：<br><strong>“生活是需要记录的， 每个人都是生活的艺术家。”</strong></p><p>我们都知道, 每个人的记忆都十分有限。<br>人的脑细胞每七年就会全部更换一次， 很多东西一段时间后可能就会慢慢忘记。<br>或许在日后会被再次回忆， 但总需要媒介。 </p><p>比如用写日志的形式储存， 这是一个媒介, 就相当于把记忆永久地封存了下来。<br>多年之后再看， 当时的相关感受与回忆就会再次涌现。<br>写日志/拍照， 其实就是帮未来的自己，记住现在的自己。</p><a id="more"></a><blockquote><p>《朗读者》中有这么一句话：”生命不是你活了多少日子，而是你记住了多少日子，要使你过的每一天都值得记忆”。</p></blockquote><p>我觉得, 能用语言记录下来的每一件事<br>或好或坏<br>都是我我们对生命的一种记录<br>让自己可以在未来有记忆可追寻。</p><p>隔着一段岁月，可能就会发现了生活中很多被自己曾忽视了的，却很细碎美好的东西。</p><p>所以，<code>hello world</code> 这世界， 我来了。</p><p>感谢<strong>litten</strong>分享的<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">yilia</a>主题, 很不错的主题。</p><!-- 别的页面的应用的引用##**一个例子**<iframe id="demoIframe" src="/assets/demo/mediator/demo.html" width="500" height="314" scrolling="no"></iframe>或者点这里弹出看[demo](/assets/demo/mediator/demo.html) 图片引用![广州](http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture)视频引用<video controls="" autoplay="" name="media"><source src="/assets/video/yilia-mobile.mp4" type="video/mp4"></video> -->]]></content>
     
     <summary type="html">
     
-      &lt;!-- &lt;img src=&quot;http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture&quot; alt=&quot;广州&quot; width=&quot;400&quot;&gt; --&gt;
+      &lt;p&gt;&lt;img src=&quot;https://wx4.sinaimg.cn/mw690/005Lzozrgy1ftqwqmjiqaj30xc0m97c7.jpg&quot; alt=&quot;广州&quot; width=&quot;400&quot;&gt;&lt;/p&gt;
 &lt;p&gt;曾在一个轻日记软件看到过这样一句话：&lt;br&gt;&lt;strong&gt;“生活是需要记录的， 每个人都是生活的艺术家。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我们都知道, 每个人的记忆都十分有限。&lt;br&gt;人的脑细胞每七年就会全部更换一次， 很多东西一段时间后可能就会慢慢忘记。&lt;br&gt;或许在日后会被再次回忆， 但总需要媒介。 &lt;/p&gt;
 &lt;p&gt;比如用写日志的形式储存， 这是一个媒介, 就相当于把记忆永久地封存了下来。&lt;br&gt;多年之后再看， 当时的相关感受与回忆就会再次涌现。&lt;br&gt;写日志/拍照， 其实就是帮未来的自己，记住现在的自己。&lt;/p&gt;
@@ -35,7 +35,9 @@
     </summary>
     
     
-      <category term="杂谈 - 杂谈" scheme="http://www.itlz.cc/tags/%E6%9D%82%E8%B0%88-%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://www.itlz.cc/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="日志" scheme="http://www.itlz.cc/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
