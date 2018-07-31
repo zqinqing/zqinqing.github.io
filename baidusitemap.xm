@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://www.itlz.cc/2017/04/01/hello-world/</loc>
-    <lastmod>2018-07-29T13:10:37.748Z</lastmod>
+    <lastmod>2018-07-31T14:02:56.556Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -14,6 +14,25 @@
         <tag>杂谈</tag>
          
         <tag>日志</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.itlz.cc/2018/07/30/fleeting-time/</loc>
+    <lastmod>2018-07-31T14:02:53.652Z</lastmod>
+    <data>
+        <display>
+        <title>驰隙流年，恍如一瞬星霜换</title>
+        <pubTime>2018-07-30T12:22:00.000Z</pubTime>
+        
+        <tag>日志</tag>
+         
+        <tag>缅怀</tag>
          
          
            
