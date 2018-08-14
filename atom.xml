@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>山抹微云-秦卿</title>
+  <title>周秦卿</title>
   <icon>https://www.gravatar.com/avatar/0ae95d4f2166978940a7d635ab2f9a67</icon>
   <subtitle>深自缄默,如云漂泊</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://www.itlz.cc/</id>
   
   <author>
-    <name>Qinqing</name>
+    <name>秦卿</name>
     <email>qinqing@itlz.com</email>
   </author>
   
@@ -36,9 +36,9 @@
     </summary>
     
     
-      <category term="缅怀" scheme="http://www.itlz.cc/tags/%E7%BC%85%E6%80%80/"/>
-    
       <category term="日志" scheme="http://www.itlz.cc/tags/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="缅怀" scheme="http://www.itlz.cc/tags/%E7%BC%85%E6%80%80/"/>
     
   </entry>
   
@@ -61,9 +61,9 @@
     </summary>
     
     
-      <category term="日志" scheme="http://www.itlz.cc/tags/%E6%97%A5%E5%BF%97/"/>
-    
       <category term="杂谈" scheme="http://www.itlz.cc/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="日志" scheme="http://www.itlz.cc/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
